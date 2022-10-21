@@ -1,0 +1,48 @@
+.page{
+    width: 80%;
+    background-color: #92b2dd;
+    margin-left: 13%;
+    
+}
+
+.contenu{
+    width: 95%;
+    background-color: white;
+    margin: 2%;
+    padding: 2%;   
+}
+
+img{
+    width: 15%;
+    margin-bottom: 5%;
+    margin-left: 80%;
+}
+
+.gauche{
+    float: right;
+    margin-top: -24%;
+}
+
+.adja{
+    margin-top: 20px;
+    margin-left: 35%;
+}
+
+span{
+    color:  #92b2dd;
+}
+
+p{
+    font-weight: bold;
+}
+
+.gauche1{
+    margin-left: 66%;
+    margin-top: -11%;
+    margin-bottom: 6%;
+    
+}
+
+
+
+
